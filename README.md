@@ -43,12 +43,12 @@
 
 1. Mở trình duyệt và truy cập: http://localhost/nhiemvu/login.php
 2. Đăng ký tài khoản mới hoặc sử dụng tài khoản mẫu:
-   - Username: admin, Password: password
-   - Username: user1, Password: password
-   - Username: user2, Password: password
-   - Username: user3, Password: password
-   - Username: user4, Password: password
-   - Username: user5, Password: password
+   - Username: admin, Password: admin123
+   - Username: user1, Password: pass123
+   - Username: user2, Password: pass123
+   - Username: user3, Password: pass123
+   - Username: user4, Password: pass123
+   - Username: user5, Password: pass123
 
 ## Cấu trúc thư mục
 
